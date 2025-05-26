@@ -3,4 +3,6 @@ XlsxWriter==3.2.3
 streamlit==1.45.1
 matplotlib==3.10.3
 pandas==2.2.3
+scikit-learn==1.4.2
+
 # protobuf==3.20.1
